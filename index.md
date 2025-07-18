@@ -23,12 +23,19 @@
 
 <h2>📱 Connect with me:</h2>
 
-[<img align="left" alt="mcmilliantech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mcmilliantech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mcmilliantech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mcmilliantech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.youtube.com/c/mcmilliantech"> 
+  <img align="left" alt="mcmilliantech youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>  
 
-[twitter]: https://twitter.com/mcmilliantech
-[youtube]: https://www.youtube.com/c/mcmilliantech
-[instagram]: https://www.instagram.com/mcmilliantech/
-[linkedin]: https://linkedin.com/in/ericmcmillian
+<a href="https://twitter.com/mcmilliantech">
+  <img align="left" alt="mcmilliantech twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
+
+<a href="https://linkedin.com/in/ericmcmillian"> 
+  <img align="left" alt="mcmilliantech linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/mcmilliantech/"> 
+  <img align="left" alt="mcmilliantech instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
