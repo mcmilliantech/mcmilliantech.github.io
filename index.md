@@ -1,15 +1,19 @@
-<h1>Hi, I'm Eric! <br/><a>Cyber Defense Technician</a>, <a>IT Professional</a>, <a>ISSO</a></h1>
+<h1>Hi, I'm Eric!
+  
+  <br/>
+  
+  <a>IT Professional</a>, <a>Cyber Defense Technician</a>, <a>& Information System Security Officer</a></h1>
 
 <h2>🔒 Cybersecurity Projects</h2>
 
-- <b>Azure Sentinel SIEM Home Lab 
+- <b><em>Azure Sentinel SIEM</em> Home Lab 
   - [PLACEHOLDER] (LINK HOLDER)
 <br>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
 
-- <b>RPG style game using HTML Canvas and Javascript</b>
+- <b>RPG-style minigame using <em>HTML Canvas</em> and <em>Javascript</em></b>
   - [PLACEHOLDER] (LINK HOLDER)
 <br>
 
