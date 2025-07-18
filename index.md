@@ -2,7 +2,7 @@
   
   <br/>
   
-  <a>IT Professional</a>, <a>Cyber Defense Technician</a>, <a>& Information System Security Officer</a></h1>
+  <a>IT Professional </a> <a>& Cyber Ops Technician (DoD)</a>
 
 <h2>🔒 Cybersecurity Projects</h2>
 
@@ -24,4 +24,7 @@
 [<img align="left" alt="mcmilliantech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/mcmilliantech
+
+<br>
+
 [linkedin]: https://linkedin.com/in/ericmcmillian
