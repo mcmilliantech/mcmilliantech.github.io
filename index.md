@@ -23,7 +23,7 @@
 
 <h2>📱 Connect with me:</h2>
 
-<a href="https://www.youtube.com/c/mcmilliantech"> 
+<a href="https://www.youtube.com/@mcmilliantech"> 
   <h3>📹 Youtube</h3>
 </a>  
 
